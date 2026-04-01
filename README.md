@@ -52,5 +52,5 @@ title('magnitude response butterworth LPF');
 ## OUTPUT:
 <img width="552" height="574" alt="image" src="https://github.com/user-attachments/assets/9ceae301-d2e9-4fcd-b5f0-8cfe43ac025c" />
 
-## RESULT:
-![WhatsApp Image 2026-03-30 at 10 40 31 AM](https://github.com/user-attachments/assets/273c04ed-f7ab-4325-9678-5cf3e86cb6c0)
+## RESULT:![2d8a99a5-efba-4d13-8073-9fe3c691b861](https://github.com/user-attachments/assets/8f8b20f7-5181-4c52-87d3-ad599fb6d3ce)
+
